@@ -66,26 +66,11 @@
 ## 技能及其他
 
 * **专业能力：**
-
-  :star: :star: :star: :star: :star:胶囊神经网络，图像处理，CNN，三维数据可视化
-
-  :star: :star: :star: :star: 脉冲神经网络，Linux系统，数据挖掘
-
-  :star: :star: :star: 计算神经科学
-
-  :star: 神经科学，天文学，心理学，动物行为学
+<br />胶囊神经网络，图像处理，CNN，三维数据可视化，脉冲神经网络，Linux系统，数据挖掘，计算神经科学
 
 * **软件能力：**
+<br />Tensorflow(Keras)/Python, Linux, Matlab, Labview, C/C++,&nbsp;&nbsp;Halcon, Brain/Python
 
-  :star: :star: :star: :star: :star:Tensorflow(Keras)/Python
-
-  :star: :star: :star: :star:Linux,&nbsp;&nbsp;Matlab,&nbsp;&nbsp;Labview
-
-  :star: :star: :star: C/C++,&nbsp;&nbsp;Halcon,&nbsp;&nbsp;Brain/Python
-
-  :star: :star: Final Cut Pro,&nbsp;&nbsp;ArtTime Pro,&nbsp;Solidwork,&nbsp;&nbsp;Excel
-
-  :star: Markdown,&nbsp;&nbsp;VideoScribe,&nbsp;&nbsp;PPT,&nbsp;&nbsp;Word
 
 * **语言能力：**
 <br />托福92（阅读：25，听力：28，写作：21，口语：18）
