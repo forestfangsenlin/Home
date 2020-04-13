@@ -9,8 +9,8 @@
 <a name="方森林"></a>
 # 方森林
 
-<img src="https://github.com/forestfangsenlin/forest/blob/master/image.jpeg" width="150" height="190" />
-<img align="left" src="https://github.com/forestfangsenlin/forest/blob/master/Shenzhen_University.png" width="50" height="50" /> 
+![](https://github.com/forestfangsenlin/forest/blob/master/image.jpeg) 
+![](https://github.com/forestfangsenlin/forest/blob/master/Shenzhen_University.png)
 <br /> 
 
 [ 深圳大学 ](https://www.szu.edu.cn) &nbsp;&nbsp;物理与光电工程学院&nbsp;&nbsp;人工智能神经网络方向研究生在读
