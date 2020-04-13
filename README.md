@@ -8,9 +8,7 @@
 
 <a name="方森林"></a>
 # 方森林
-
-![](https://user-images.githubusercontent.com/37896842/79166835-986fcc80-7e18-11ea-84f1-4e56c2220a25.jpeg)
-
+<img src="https://user-images.githubusercontent.com/37896842/79166835-986fcc80-7e18-11ea-84f1-4e56c2220a25.jpeg" width="150" height="190" />
 
 [ 深圳大学 ](https://www.szu.edu.cn) &nbsp;&nbsp;物理与光电工程学院&nbsp;&nbsp;人工智能神经网络方向研究生在读
 <br /><br /><br />研究方向：脉冲神经网络，胶囊神经网络，机器视觉
