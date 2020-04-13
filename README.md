@@ -13,7 +13,7 @@
 <br />
 <img align="left" src="https://user-images.githubusercontent.com/37896842/79167478-11235880-7e1a-11ea-86e9-5faef16b10e5.png" width="60" height="60" /> 
 <br />
-&nbsp;&nbsp;[ 深圳大学 ](https://www.szu.edu.cn) &nbsp;&nbsp;物理与光电工程学院&nbsp;&nbsp;人工智能神经网络方向研究生在读
+&nbsp;&nbsp;[ 深圳大学 ](https://www.szu.edu.cn)&nbsp;&nbsp;物理与光电工程学院&nbsp;&nbsp;人工智能神经网络方向研究生在读
 <br /><br />
 研究方向：脉冲神经网络，胶囊神经网络，机器视觉
 <br />
@@ -26,15 +26,15 @@
 <a name="教育经历"></a>
 ## 教育经历
 
-* 2010.09-2013.06&nbsp;&nbsp;广东省&nbsp;&nbsp;深圳市&nbsp;&nbsp;宝安中学
-* 2013.09-2017.06&nbsp;&nbsp;甘肃省&nbsp;&nbsp;兰州市&nbsp;&nbsp;兰州理工大学&nbsp;&nbsp;计算机与通信学院
-* 2018.06-2018.09&nbsp;&nbsp;浙江省&nbsp;&nbsp;杭州市&nbsp;&nbsp;浙江大学&nbsp;&nbsp;生物医学院交流访学&nbsp;&nbsp;导师：陈伟
-* 2017.09-2020.06&nbsp;&nbsp;广东省&nbsp;&nbsp;深圳市&nbsp;&nbsp;深圳大学&nbsp;&nbsp;物理与光电工程学院&nbsp;&nbsp;神经网络方向&nbsp;&nbsp;硕士
+* 2010.09-2013.06&nbsp;&nbsp;广东省&nbsp;深圳市&nbsp;宝安中学
+* 2013.09-2017.06&nbsp;&nbsp;甘肃省&nbsp;兰州市&nbsp;兰州理工大学&nbsp;计算机与通信学院
+* 2018.06-2018.09&nbsp;&nbsp;浙江省&nbsp;杭州市&nbsp;浙江大学&nbsp;生物医学院交流访学&nbsp;导师：陈伟
+* 2017.09-2020.06&nbsp;&nbsp;广东省&nbsp;深圳市&nbsp;深圳大学&nbsp;物理与光电工程学院&nbsp;神经网络方向&nbsp;硕士
 
 <a name="实习经历"></a>
 ## 实习经历
-* 2019.05-2019.09&nbsp;&nbsp;广东省&nbsp;&nbsp;深圳市&nbsp;&nbsp;联想&nbsp;&nbsp;测试工程师
-* 2019.09-2019.12&nbsp;&nbsp;广东省&nbsp;&nbsp;深圳市&nbsp;&nbsp;中国科学院深圳先进院&nbsp;&nbsp;医学成像组助理研究员&nbsp;&nbsp;导师：胡战利
+* 2019.05-2019.09&nbsp;&nbsp;广东省&nbsp;&nbsp;深圳市&nbsp;联想&nbsp;测试工程师
+* 2019.09-2019.12&nbsp;&nbsp;广东省&nbsp;&nbsp;深圳市&nbsp;中国科学院深圳先进院&nbsp;医学成像组助理研究员&nbsp;导师：胡战利
 
 <a name="项目经历"></a>
 ## 项目经历
