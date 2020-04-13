@@ -4,7 +4,7 @@
   <script src="https://use.fontawesome.com/baff6f55f5.js"></script>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>Tyler Ransom by tyleransom</title>
+    <title>方森林</title>
 
     <link rel="stylesheet" href="stylesheets/styles.css">
     <link rel="stylesheet" href="stylesheets/github-light.css">
@@ -33,9 +33,10 @@
 <body>
     <div class="wrapper">
       <header>
-        <h1>Tyler Ransom</h1>
-        <p>Assistant Professor of Economics<br>University of Oklahoma</p>
-        <p>Research Affiliate<br><a href="http://legacy.iza.org/en/webcontent/personnel/photos/index_html?key=24155">Institute for the Study of Labor (IZA)</a></p>
+        <h1>方森林</h1>
+        <a href="https://www.szu.edu.cn">深圳大学</a></p>
+        <p>物理与光电工程学院<br>人工智能神经网络方向研究生在读</p>
+        <a href="http://legacy.iza.org/en/webcontent/personnel/photos/index_html?key=24155">Institute for the Study of Labor (IZA)</a></p>
     <h3><p class="view"><a href="https://tyleransom.github.io/">Home</a></p></h3>
         <h3><p class="view"><a href="https://tyleransom.github.io/research.html">Research</a></p></h3>
     <h3><p class="view"><a href="https://tyleransom.github.io/research/CV.pdf">CV</a></p></h3>
