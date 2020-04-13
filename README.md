@@ -34,7 +34,7 @@
 <a name="实习经历"></a>
 ## 实习经历
 * 2019.05-2019.09&nbsp;&nbsp;广东省&nbsp;&nbsp;深圳市&nbsp;联想&nbsp;测试工程师
-* 2019.09-2019.12&nbsp;&nbsp;广东省&nbsp;&nbsp;深圳市&nbsp;中国科学院深圳先进院&nbsp;医学成像组助理研究员&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;导师：胡战利
+* 2019.09-2019.12&nbsp;&nbsp;广东省&nbsp;&nbsp;深圳市&nbsp;中国科学院深圳先进院&nbsp;医学成像组助理研究员&nbsp;导师：胡战利
 
 <a name="项目经历"></a>
 ## 项目经历
