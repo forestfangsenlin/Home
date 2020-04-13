@@ -1,12 +1,3 @@
-
-[ **方森林** ](#方森林)
-* [ 教育经历 ](#教育经历) 
-* [ 实习经历 ](#实习经历)
-* [ 项目经历 ](#项目经历)
-* [ 社会活动 ](#社会活动)
-* [ 技能及其他 ](#技能及其他)
-
-<a name="方森林"></a>
 # 方森林
 
 <img src="https://github.com/forestfangsenlin/forest/blob/master/image.jpeg" width="150" height="190" />
@@ -18,7 +9,6 @@
 <br /><br />导师：彭争春 
 <br /><br />联系方式：fsl199498@163.com
 
-<a name="教育经历"></a>
 ## 教育经历
 
 * 2010.09-2013.06&nbsp;&nbsp;&nbsp;广东省&nbsp;&nbsp;深圳市&nbsp;&nbsp;宝安中学
@@ -26,12 +16,10 @@
 * 2018.06-2018.09&nbsp;&nbsp;&nbsp;浙江省&nbsp;&nbsp;杭州市&nbsp;&nbsp;浙江大学&nbsp;&nbsp;生物医学院交流访学&nbsp;&nbsp;导师：陈伟
 * 2017.09-2020.06&nbsp;&nbsp;&nbsp;广东省&nbsp;&nbsp;深圳市&nbsp;&nbsp;深圳大学&nbsp;&nbsp;物理与光电工程学院&nbsp;&nbsp;神经网络方向&nbsp;&nbsp;硕士
 
-<a name="实习经历"></a>
 ## 实习经历
 * 2019.05-2019.09&nbsp;&nbsp;&nbsp;广东省&nbsp;&nbsp;深圳市&nbsp;&nbsp;联想&nbsp;&nbsp;测试工程师
 * 2019.09-2019.12&nbsp;&nbsp;&nbsp;广东省&nbsp;&nbsp;深圳市&nbsp;&nbsp;中国科学院深圳先进院&nbsp;&nbsp;医学成像组助理研究员&nbsp;&nbsp;导师：胡战利
 
-<a name="项目经历"></a>
 ## 项目经历
 * **2017.09-2018.03&nbsp;&nbsp;&nbsp;GPU并行追踪几百个磁珠的XYZ坐标**
 <br />项目职责：利用C++设计并封装以NVIDA GTX 1080 Ti为处理器的模式追踪算法，并行追踪几百个微米尺寸的磁珠。为浙大生物医学院陈伟课题组搭建DNA磁珠追踪实验平台。
@@ -45,7 +33,6 @@
 * **2019.06-2020.04&nbsp;&nbsp;&nbsp;基于Spiking Nerual Networks的机械臂柔顺控制**
 <br />项目职责：利用Brain/python搭建机械臂柔顺控制系统，作为“用于机器人智能抓取的多参量三维触觉传感器研究”的国家自然科学基金青年科学基金项目中的主要技术人员之一。
 
-<a name="社会活动"></a>
 ## 社会活动
 * **2016.12&nbsp;&nbsp;&nbsp;深圳博物馆图书馆文化义工**
 <br />主要职责：负责深圳博物馆图书馆馆内秩序和博物馆历史讲解员。
@@ -59,7 +46,6 @@
 * **2019.08&nbsp;&nbsp;&nbsp;法国超级杯英语志愿者**
 <br />主要职责：负责法国超级杯外国运动员和观众的英文翻译和后勤服务。
 
-<a name="技能及其他"></a>
 ## 技能及其他
 * **专业能力：**
 <br />:star: :star: :star: :star: :star:胶囊神经网络，图像处理，CNN，三维数据可视化
