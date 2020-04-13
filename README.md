@@ -66,15 +66,15 @@
 <a name="技能及其他"></a>
 ## 技能及其他
 
-* **专业能力：**
+* **专业能力**
 <br />胶囊神经网络，图像处理，CNN，三维数据可视化，脉冲神经网络，Linux系统，数据挖掘，计算神经科学
 
-* **软件能力：**
+* **软件能力**
 <br />Tensorflow(Keras)/Python, Linux, Matlab, Labview, C/C++,&nbsp;&nbsp;Halcon, Brain/Python
 
 
-* **语言能力：**
+* **语言能力**
 <br />托福92（阅读：25，听力：28，写作：21，口语：18）
 
-* **Corsera课程：**
+* **Corsera课程**
 <br />“Neural Networks and Deep Learning”,&nbsp;&nbsp;“Synapses, Neurons and Brains”,&nbsp;&nbsp;“Big Data Emerging Technologies”,&nbsp;&nbsp;“Data Visualization with Advanced Excel”
