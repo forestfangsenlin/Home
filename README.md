@@ -14,12 +14,11 @@
 <img align="left" src="https://user-images.githubusercontent.com/37896842/79167478-11235880-7e1a-11ea-86e9-5faef16b10e5.png" width="50" height="50" /> 
 <br />
 [ 深圳大学 ](https://www.szu.edu.cn) &nbsp;&nbsp;物理与光电工程学院&nbsp;&nbsp;人工智能神经网络方向研究生在读
-<br />
+<br /><br />
 研究方向：脉冲神经网络，胶囊神经网络，机器视觉
 <br />
 导师：彭争春 
 <br />
-
 联系方式：fsl199498@163.com
 
 <a name="教育经历"></a>
