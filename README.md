@@ -66,12 +66,14 @@
 <br />:star: :star: :star: :star: 脉冲神经网络，Linux系统，数据挖掘
 <br />:star: :star: :star: 计算神经科学
 <br />:star: 神经科学，天文学，心理学，动物行为学
+
 * **软件能力：**
 <br />:star: :star: :star: :star: :star:Tensorflow(Keras)/Python
 <br />:star: :star: :star: :star:Linux,&nbsp;&nbsp;Matlab,&nbsp;&nbsp;Labview
 <br />:star: :star: :star: C/C++,&nbsp;&nbsp;Halcon,&nbsp;&nbsp;Brain/Python
 <br />:star: :star: Final Cut Pro,&nbsp;&nbsp;ArtTime Pro,&nbsp;Solidwork,&nbsp;&nbsp;Excel
 <br />:star: Markdown,&nbsp;&nbsp;VideoScribe,&nbsp;&nbsp;PPT,&nbsp;&nbsp;Word
+
 * **语言能力：**
 <br />托福92（阅读：25，听力：28，写作：21，口语：18）
 
