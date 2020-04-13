@@ -15,7 +15,6 @@
 <br />
 &nbsp;&nbsp;[ 深圳大学 ](https://www.szu.edu.cn) &nbsp;&nbsp;物理与光电工程学院&nbsp;&nbsp;人工智能神经网络方向研究生在读
 <br /><br />
-
 研究方向：脉冲神经网络，胶囊神经网络，机器视觉
 <br />
 
