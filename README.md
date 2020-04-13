@@ -10,8 +10,7 @@
 # 方森林
 <br />
 <img src="https://user-images.githubusercontent.com/37896842/79166835-986fcc80-7e18-11ea-84f1-4e56c2220a25.jpeg" width="150" height="190" />
-<br />
-
+<br /><br />
 <img align="left" src="https://user-images.githubusercontent.com/37896842/79167478-11235880-7e1a-11ea-86e9-5faef16b10e5.png" width="50" height="50" /> 
 <br />
 &nbsp;&nbsp;[ 深圳大学 ](https://www.szu.edu.cn) &nbsp;&nbsp;物理与光电工程学院&nbsp;&nbsp;人工智能神经网络方向研究生在读
