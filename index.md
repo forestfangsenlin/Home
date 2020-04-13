@@ -38,11 +38,11 @@
         <p>物理与光电工程学院<br>人工智能神经网络方向研究生在读</p>
         <a href="http://legacy.iza.org/en/webcontent/personnel/photos/index_html?key=24155">Institute for the Study of Labor (IZA)</a></p>
     <h3><p class="view"><a href="https://tyleransom.github.io/">Home</a></p></h3>
-        <h3><p class="view"><a href="https://tyleransom.github.io/research.html">Research</a></p></h3>
-    <h3><p class="view"><a href="https://tyleransom.github.io/research/CV.pdf">CV</a></p></h3>
-        <h3><p class="view"><a href="https://tyleransom.github.io/code.html">Code</a></p></h3>
-        <h3><p class="view"><a href="https://tyleransom.github.io/teaching.html">Teaching</a></p></h3>
-        <h3><p class="view"><a href="https://tyleransom.github.io/personal.html">Personal</a></p></h3>
+        <h3><p class="view"><a href="https://github.com/forestfangsenlin/forest/research.html">Research</a></p></h3>
+    <h3><p class="view"><a href="https://github.com/forestfangsenlin/forest/research/CV.pdf">CV</a></p></h3>
+        <h3><p class="view"><a href="https://github.com/forestfangsenlin/forest/code.html">Code</a></p></h3>
+        <h3><p class="view"><a href="https://github.com/forestfangsenlin/forest/teaching.html">Teaching</a></p></h3>
+        <h3><p class="view"><a href="https://https://github.com/forestfangsenlin/forest/personal.html">Personal</a></p></h3>
     <p class="view"><b>Social</b><br>
         <a href="mailto:ransom@ou.edu" class="author-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> Email</a><br>
         <a href="https://scholar.google.com/citations?user=eohlTTcAAAAJ&hl=en" target="_blank"><i class="ai ai-fw ai-google-scholar-square"></i> Scholar</a><br>
