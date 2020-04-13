@@ -9,7 +9,7 @@
 <a name="方森林"></a>
 # 方森林
 
-![](https://github.com/forestfangsenlin/forest/blob/master/image.jpeg) 
+![image](https://user-images.githubusercontent.com/37896842/79166835-986fcc80-7e18-11ea-84f1-4e56c2220a25.jpeg)
 ![](https://github.com/forestfangsenlin/forest/blob/master/Shenzhen_University.png)
 <br /> 
 
