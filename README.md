@@ -42,14 +42,14 @@
 * **2017.09-2018.03&nbsp;&nbsp;GPU并行追踪几百个磁珠的XYZ坐标**
 <br />项目职责：利用C++设计并封装以NVIDA GTX 1080 Ti为处理器的模式追踪算法，并行追踪几百个微米尺寸的磁珠，为浙大生物医学院陈伟课题组搭建DNA磁珠追踪实验平台。
 <br /><br /><img src="https://user-images.githubusercontent.com/37896842/79268882-13df8580-7ece-11ea-98c5-c39e9d985dac.png" width="175" height="155" />&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/37896842/79214312-36957e00-7e7d-11ea-8eae-0131d90e005e.png" width="362" height="155" />
-<br /><img src="https://user-images.githubusercontent.com/37896842/79214324-3ac19b80-7e7d-11ea-90f5-8fcf8facea91.png" width="175" height="155" />&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/37896842/79215347-f71b6180-7e7d-11ea-8801-ead7e2b03513.png" width="175" height="155" />&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/37896842/79268894-17730c80-7ece-11ea-94d7-097f79fc6669.png" width="175" height="155" />
+<br /><img src="https://user-images.githubusercontent.com/37896842/79214324-3ac19b80-7e7d-11ea-90f5-8fcf8facea91.png" width="175" height="155" />&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/37896842/79215347-f71b6180-7e7d-11ea-8801-ead7e2b03513.png" width="175" height="155" />&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/37896842/79214289-2a112580-7e7d-11ea-9e3c-233ec71bed39.png" width="175" height="155" />
 <br />
 
 * **2018.05-2019.08&nbsp;&nbsp;基于Capsule Networks的触觉视觉融合训练**
 <br />项目职责：利用Tensorflow/Python在linux系统搭建基于Capsule Networks的触视结合训练网络，在对不同形状的物体进行分类正确率高于RNN分类网络两个百分点，参与到“触觉与微视觉融合的柔性机器人电子皮肤研究”的300万深圳市基础研究学科布局项目中。
-<br /><br /><img src="https://user-images.githubusercontent.com/37896842/79267688-29ec4680-7ecc-11ea-9e51-2ab9f92d7ab8.jpg" width="537" height="400" />
+<br /><br /><img src="https://user-images.githubusercontent.com/37896842/79268882-13df8580-7ece-11ea-98c5-c39e9d985dac.png" width="537" height="300" />
 <br />
-<img src="https://user-images.githubusercontent.com/37896842/79267703-2d7fcd80-7ecc-11ea-86c1-b4063d5a3c52.png" />&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/37896842/79267709-307abe00-7ecc-11ea-8ab2-eb20e33986f7.png" width="362" height="155" />
+<img src="https://user-images.githubusercontent.com/37896842/79267703-2d7fcd80-7ecc-11ea-86c1-b4063d5a3c52.png" width="175" height="155" />&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/37896842/79267709-307abe00-7ecc-11ea-8ab2-eb20e33986f7.png" width="362" height="155" />
 <br />
 
 * **2019.03-2019.12&nbsp;&nbsp;柔性可视化电子皮肤** 
