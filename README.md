@@ -17,7 +17,9 @@ gallery.clean()
 <a name="方森林"></a>
 # 方森林
 <br /><br />
-<img src="https://user-images.githubusercontent.com/37896842/79166835-986fcc80-7e18-11ea-84f1-4e56c2220a25.jpeg" width="150" height="190" />
+<img src="https://user-images.githubusercontent.com/37896842/79229045-fcd07180-7e94-11ea-8850-a292cf39359e.jpeg" width="180" height="250" />
+<br />
+[<img src="https://user-images.githubusercontent.com/37896842/79206691-48255880-7e72-11ea-8e02-1a5be443c17e.png" width="35" height="35" />](https://space.bilibili.com/346444283)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://user-images.githubusercontent.com/37896842/79206712-54111a80-7e72-11ea-8e6f-ae102df1e3f7.jpg" width="50" height="35" />](https://twitter.com/foresthao)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://user-images.githubusercontent.com/37896842/79206824-7b67e780-7e72-11ea-80d4-cae018ce8d3b.png">](https://mp.csdn.net/console/article)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://user-images.githubusercontent.com/37896842/79206840-7f940500-7e72-11ea-8230-b3d762af27ef.png" width="38" height="36" />](https://www.zhihu.com/people/sen-lin-91-41)
 <br />
 <img align="left" src="https://user-images.githubusercontent.com/37896842/79167478-11235880-7e1a-11ea-86e9-5faef16b10e5.png" width="60" height="60" /> 
 <br />
@@ -31,7 +33,6 @@ gallery.clean()
 
 联系方式：fsl199498@163.com
 
-社交账号：[<img src="https://user-images.githubusercontent.com/37896842/79206691-48255880-7e72-11ea-8e02-1a5be443c17e.png" width="35" height="35" />](https://space.bilibili.com/346444283)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://user-images.githubusercontent.com/37896842/79206712-54111a80-7e72-11ea-8e6f-ae102df1e3f7.jpg" width="50" height="35" />](https://twitter.com/foresthao)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://user-images.githubusercontent.com/37896842/79206824-7b67e780-7e72-11ea-80d4-cae018ce8d3b.png">](https://mp.csdn.net/console/article)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://user-images.githubusercontent.com/37896842/79206840-7f940500-7e72-11ea-8230-b3d762af27ef.png" width="38" height="36" />](https://www.zhihu.com/people/sen-lin-91-41)
 
 <a name="教育经历"></a>
 ## 教育经历
@@ -50,6 +51,9 @@ gallery.clean()
 ## 项目经历
 * **2017.09-2018.03&nbsp;&nbsp;GPU并行追踪几百个磁珠的XYZ坐标**
 <br />项目职责：利用C++设计并封装以NVIDA GTX 1080 Ti为处理器的模式追踪算法，并行追踪几百个微米尺寸的磁珠，为浙大生物医学院陈伟课题组搭建DNA磁珠追踪实验平台。
+<br /><br /><img src="https://user-images.githubusercontent.com/37896842/79214297-309f9d00-7e7d-11ea-8125-2994e5d0064c.png" width="230" height="200" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/37896842/79214312-36957e00-7e7d-11ea-8eae-0131d90e005e.png" width="475" height="200" />
+<img src="https://user-images.githubusercontent.com/37896842/79214324-3ac19b80-7e7d-11ea-90f5-8fcf8facea91.png" width="230" height="200" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/37896842/79215347-f71b6180-7e7d-11ea-8801-ead7e2b03513.png" width="230" height="200" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/37896842/79214289-2a112580-7e7d-11ea-9e3c-233ec71bed39.png" width="230" height="200" />
+<br />
 
 * **2018.05-2019.08&nbsp;&nbsp;基于Capsule Networks的触觉视觉融合训练**
 <br />项目职责：利用Tensorflow/Python在linux系统搭建基于Capsule Networks的触视结合训练网络，在对不同形状的物体进行分类正确率高于RNN分类网络两个百分点，参与到“触觉与微视觉融合的柔性机器人电子皮肤研究”的300万深圳市基础研究学科布局项目中。
