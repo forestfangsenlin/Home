@@ -1,5 +1,3 @@
-
-
 [ **方森林** ](#方森林)
 * [ 教育经历 ](#教育经历) 
 * [ 实习经历 ](#实习经历)
@@ -9,7 +7,9 @@
 <a name="方森林"></a>
 
 # 方森林
+<br />
 <img src="https://user-images.githubusercontent.com/37896842/79229045-fcd07180-7e94-11ea-8850-a292cf39359e.jpeg" width="180" height="250" />
+<br />
 <img align="left" src="https://user-images.githubusercontent.com/37896842/79167478-11235880-7e1a-11ea-86e9-5faef16b10e5.png" width="60" height="60" /> 
 <br />
 
