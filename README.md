@@ -1,3 +1,9 @@
+const gallery = big({
+  photos: [{ image: 'photo1.jpg'}, { image: 'https://user-images.githubusercontent.com/37896842/79166835-986fcc80-7e18-11ea-84f1-4e56c2220a25.jpeg'}],
+  interval: 5000,
+  fade: 3000,
+  random: true
+})
 
 [ **方森林** ](#方森林)
 * [ 教育经历 ](#教育经历) 
