@@ -47,7 +47,7 @@
 
 * **2018.05-2019.08&nbsp;&nbsp;基于Capsule Networks的触觉视觉融合训练**
 <br /><br />项目职责：利用Tensorflow/Python在linux系统搭建基于Capsule Networks的触视结合训练网络，在对形状相同，软硬度不同的物体进行分类正确率高于RNN分类网络两个百分点，作为“触觉与微视觉融合的柔性机器人电子皮肤研究”的300万深圳市基础研究学科布局项目的主要创新点。
-<br /><br /><img align="left" src="https://user-images.githubusercontent.com/37896842/79273577-cd8e2480-7ed5-11ea-9039-2d05342b27ae.png" width="230" height="190" /><br />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/37896842/79268894-17730c80-7ece-11ea-94d7-097f79fc6669.png" width="300" height="145" />
+<br /><br /><img align="left" src="https://user-images.githubusercontent.com/37896842/79273577-cd8e2480-7ed5-11ea-9039-2d05342b27ae.png" width="235" height="190" /><br />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/37896842/79268894-17730c80-7ece-11ea-94d7-097f79fc6669.png" width="300" height="145" />
 <br /><br /><img src="https://user-images.githubusercontent.com/37896842/79268882-13df8580-7ece-11ea-98c5-c39e9d985dac.png" width="555" height="280" />
 <br />
 
