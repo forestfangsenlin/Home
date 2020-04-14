@@ -77,5 +77,5 @@
 * **语言能力**
 <br />托福92（阅读：25，听力：28，写作：21，口语：18）
 
-* **Corsera课程**
+* **Coursera课程**
 <br />“Neural Networks and Deep Learning”,&nbsp;&nbsp;“Synapses, Neurons and Brains”,&nbsp;&nbsp;“Big Data Emerging Technologies”,&nbsp;&nbsp;“Data Visualization with Advanced Excel”
