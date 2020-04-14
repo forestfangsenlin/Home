@@ -18,11 +18,10 @@ gallery.clean()
 <a name="方森林"></a>
 
 # 方森林
-<br />
 <img src="https://user-images.githubusercontent.com/37896842/79229045-fcd07180-7e94-11ea-8850-a292cf39359e.jpeg" width="180" height="250" />
 <br />
 <img align="left" src="https://user-images.githubusercontent.com/37896842/79167478-11235880-7e1a-11ea-86e9-5faef16b10e5.png" width="60" height="60" /> 
-<br />
+<br /><br />
 &nbsp;&nbsp;[ 深圳大学 ](https://www.szu.edu.cn)&nbsp;&nbsp;物理与光电工程学院&nbsp;&nbsp;人工智能神经网络方向研究生在读
 <br /><br />
 研究方向：脉冲神经网络，胶囊神经网络，机器视觉
