@@ -16,6 +16,7 @@ gallery.clean()
 * [ 技能及其他 ](#技能及其他)
 <br />
 <a name="方森林"></a>
+
 # 方森林
 <br />
 <img src="https://user-images.githubusercontent.com/37896842/79229045-fcd07180-7e94-11ea-8850-a292cf39359e.jpeg" width="180" height="250" />
