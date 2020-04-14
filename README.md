@@ -1,12 +1,4 @@
-const gallery = big({ ... })
 
-/* Time passes by... */
-
-// The gallery stops but the images are still in the DOM.
-gallery.stop()
-
-// The gallery stops and the images are removed from the DOM.
-gallery.clean()
 
 [ **方森林** ](#方森林)
 * [ 教育经历 ](#教育经历) 
