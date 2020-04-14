@@ -47,6 +47,10 @@
 
 * **2018.05-2019.08&nbsp;&nbsp;基于Capsule Networks的触觉视觉融合训练**
 <br />项目职责：利用Tensorflow/Python在linux系统搭建基于Capsule Networks的触视结合训练网络，在对不同形状的物体进行分类正确率高于RNN分类网络两个百分点，参与到“触觉与微视觉融合的柔性机器人电子皮肤研究”的300万深圳市基础研究学科布局项目中。
+<br /><br /><img src="https://user-images.githubusercontent.com/37896842/79267688-29ec4680-7ecc-11ea-9e51-2ab9f92d7ab8.jpg" width="537" height="400" />
+<br />
+<img src="https://user-images.githubusercontent.com/37896842/79267703-2d7fcd80-7ecc-11ea-86c1-b4063d5a3c52.png" />&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/37896842/79267709-307abe00-7ecc-11ea-8ab2-eb20e33986f7.png" width="362" height="155" />
+<br />
 
 * **2019.03-2019.12&nbsp;&nbsp;柔性可视化电子皮肤** 
 <br />项目职责：利用NI Vison和Halcon实时追踪并分割电子皮肤触觉信号，参与“基于离子凝胶的仿生电子皮肤研究”的广东省自然科学基金科研项目中，影响因子为10的一区Chemistry of Materials期刊在发。
