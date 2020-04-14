@@ -42,19 +42,19 @@
 * **2017.09-2018.03&nbsp;&nbsp;GPU并行追踪几百个磁珠的XYZ坐标**
 <br /><br />项目职责：利用C++设计并封装以GPU为运算单元的，基于Labview平台的模式追踪算法，并行追踪几百个微米尺寸的磁珠，为浙大生物医学院陈伟课题组搭建DNA磁珠追踪实验平台。
 <br /><br /><img src="https://user-images.githubusercontent.com/37896842/79272937-b995f300-7ed4-11ea-8b59-70c28cea7485.png" width="175" height="155" />&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/37896842/79274975-f1526a00-7ed7-11ea-8b2e-0300594d5506.png" width="175" height="155" />&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/37896842/79274871-cb2cca00-7ed7-11ea-8967-549b588ff690.png" width="175" height="155" />
-<br /><br /><img src="https://user-images.githubusercontent.com/37896842/79214324-3ac19b80-7e7d-11ea-90f5-8fcf8facea91.png" width="175" height="155" />&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/37896842/79215347-f71b6180-7e7d-11ea-8801-ead7e2b03513.png" width="175" height="155" />&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/37896842/79214289-2a112580-7e7d-11ea-9e3c-233ec71bed39.png" width="175" height="155" />
+<br /><img src="https://user-images.githubusercontent.com/37896842/79214324-3ac19b80-7e7d-11ea-90f5-8fcf8facea91.png" width="175" height="155" />&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/37896842/79215347-f71b6180-7e7d-11ea-8801-ead7e2b03513.png" width="175" height="155" />&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/37896842/79214289-2a112580-7e7d-11ea-9e3c-233ec71bed39.png" width="175" height="155" />
 <br />
 
 * **2018.05-2019.08&nbsp;&nbsp;基于Capsule Networks的触觉视觉融合训练**
 <br /><br />项目职责：利用Tensorflow/Python在Linux系统搭建基于Capsule Networks的触视结合训练网络，在对形状相同，软硬度不同的物体进行分类正确率高于RNN分类网络，作为“触觉与微视觉融合的柔性机器人电子皮肤研究”的300万深圳市基础研究学科布局项目的主要创新点。
 <br /><br /><img align="left" src="https://user-images.githubusercontent.com/37896842/79273577-cd8e2480-7ed5-11ea-9039-2d05342b27ae.png" width="235" height="190" /><br />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/37896842/79268894-17730c80-7ece-11ea-94d7-097f79fc6669.png" width="300" height="145" />
-<br /><br /><br /><img src="https://user-images.githubusercontent.com/37896842/79268882-13df8580-7ece-11ea-98c5-c39e9d985dac.png" width="555" height="280" />
+<br /><br /><img src="https://user-images.githubusercontent.com/37896842/79268882-13df8580-7ece-11ea-98c5-c39e9d985dac.png" width="555" height="280" />
 <br />
 
 * **2019.03-2019.12&nbsp;&nbsp;柔性可视化电子皮肤** 
 <br /><br />项目职责：利用NI图像算法实时追踪并分割电子皮肤触觉信号，并用Matlab实现动态3D可视化，参与“基于离子凝胶的仿生电子皮肤研究”的广东省自然科学基金科研项目中，协助课题组博士后发表两篇一区论文，并另有影响因子为10的Chemistry of Materials期刊在发。
 <br /><br /><img src="https://user-images.githubusercontent.com/37896842/79278286-fdd9c100-7edd-11ea-9074-8fbd8c218cbd.png" width="555" height="280" />
-<br /><br /><img  src="https://user-images.githubusercontent.com/37896842/79280220-61fe8400-7ee2-11ea-94a0-538ff370a8a1.png" width="555" height="280" />
+<br /><img  src="https://user-images.githubusercontent.com/37896842/79280220-61fe8400-7ee2-11ea-94a0-538ff370a8a1.png" width="555" height="280" />
 <br />
 
 * **2019.06-2020.04&nbsp;&nbsp;基于Spiking Nerual Networks的机械臂柔顺控制**
