@@ -41,7 +41,7 @@
 ## 项目经历
 * **2017.09-2018.03&nbsp;&nbsp;GPU并行追踪几百个磁珠的XYZ坐标**
 <br /><br />项目职责：利用C++设计并封装以NVIDA GTX 1080 Ti为处理器的模式追踪算法，并行追踪几百个微米尺寸的磁珠，为浙大生物医学院陈伟课题组搭建DNA磁珠追踪实验平台。
-<br /><br /><img src="https://user-images.githubusercontent.com/37896842/79272937-b995f300-7ed4-11ea-8b59-70c28cea7485.png" width="175" height="155" />&nbsp;&nbsp;&nbsp;<img src="hhttps://user-images.githubusercontent.com/37896842/79274307-f2cf6280-7ed6-11ea-8c16-f4b12d84deba.png" width="175" height="155" />nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/37896842/79274312-f531bc80-7ed6-11ea-883f-580146ee75ec.png" width="175" height="155" />
+<br /><br /><img src="https://user-images.githubusercontent.com/37896842/79272937-b995f300-7ed4-11ea-8b59-70c28cea7485.png" width="175" height="155" />&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/37896842/79274975-f1526a00-7ed7-11ea-8b2e-0300594d5506.png" width="175" height="155" />nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/37896842/79274871-cb2cca00-7ed7-11ea-8967-549b588ff690.png" width="175" height="155" />
 <br /><img src="https://user-images.githubusercontent.com/37896842/79214324-3ac19b80-7e7d-11ea-90f5-8fcf8facea91.png" width="175" height="155" />&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/37896842/79215347-f71b6180-7e7d-11ea-8801-ead7e2b03513.png" width="175" height="155" />&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/37896842/79214289-2a112580-7e7d-11ea-9e3c-233ec71bed39.png" width="175" height="155" />
 <br />
 
