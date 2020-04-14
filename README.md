@@ -52,7 +52,7 @@
 <br />
 
 * **2019.03-2019.12&nbsp;&nbsp;柔性可视化电子皮肤** 
-<br /><br />项目职责：利用NI Vison和Halcon实时追踪并分割电子皮肤触觉信号，参与“基于离子凝胶的仿生电子皮肤研究”的广东省自然科学基金科研项目中，影响因子为10的一区Chemistry of Materials期刊在发。
+<br /><br />项目职责：利用NI图像算法实时追踪并分割电子皮肤触觉信号，并用Matlab实现动态3D可视化，参与“基于离子凝胶的仿生电子皮肤研究”的广东省自然科学基金科研项目中，协助课题组博士后发表两篇一区论文，并另有影响因子为10的Chemistry of Materials期刊在发。
 <br /><br /><img src="https://user-images.githubusercontent.com/37896842/79278286-fdd9c100-7edd-11ea-9074-8fbd8c218cbd.png" width="555" height="280" />
 <br /><br /><img  src="https://user-images.githubusercontent.com/37896842/79280220-61fe8400-7ee2-11ea-94a0-538ff370a8a1.png" width="555" height="280" />
 <br />
