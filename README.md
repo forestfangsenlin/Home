@@ -7,19 +7,18 @@ gallery.stop()
 
 // The gallery stops and the images are removed from the DOM.
 gallery.clean()
+<br />
 [ **方森林** ](#方森林)
 * [ 教育经历 ](#教育经历) 
 * [ 实习经历 ](#实习经历)
 * [ 项目经历 ](#项目经历)
 * [ 社会活动 ](#社会活动)
 * [ 技能及其他 ](#技能及其他)
-
+<br />
 <a name="方森林"></a>
 # 方森林
 <br />
 <img src="https://user-images.githubusercontent.com/37896842/79229045-fcd07180-7e94-11ea-8850-a292cf39359e.jpeg" width="180" height="250" />
-<br />
-[<img src="https://user-images.githubusercontent.com/37896842/79206691-48255880-7e72-11ea-8e02-1a5be443c17e.png" width="35" height="35" />](https://space.bilibili.com/346444283)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://user-images.githubusercontent.com/37896842/79206712-54111a80-7e72-11ea-8e6f-ae102df1e3f7.jpg" width="50" height="35" />](https://twitter.com/foresthao)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://user-images.githubusercontent.com/37896842/79206824-7b67e780-7e72-11ea-80d4-cae018ce8d3b.png">](https://mp.csdn.net/console/article)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://user-images.githubusercontent.com/37896842/79206840-7f940500-7e72-11ea-8230-b3d762af27ef.png" width="38" height="36" />](https://www.zhihu.com/people/sen-lin-91-41)
 <br />
 <img align="left" src="https://user-images.githubusercontent.com/37896842/79167478-11235880-7e1a-11ea-86e9-5faef16b10e5.png" width="60" height="60" /> 
 <br />
@@ -33,6 +32,7 @@ gallery.clean()
 
 联系方式：fsl199498@163.com
 
+[<img src="https://user-images.githubusercontent.com/37896842/79206691-48255880-7e72-11ea-8e02-1a5be443c17e.png" width="35" height="35" />](https://space.bilibili.com/346444283)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://user-images.githubusercontent.com/37896842/79206712-54111a80-7e72-11ea-8e6f-ae102df1e3f7.jpg" width="50" height="35" />](https://twitter.com/foresthao)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://user-images.githubusercontent.com/37896842/79206824-7b67e780-7e72-11ea-80d4-cae018ce8d3b.png">](https://mp.csdn.net/console/article)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://user-images.githubusercontent.com/37896842/79206840-7f940500-7e72-11ea-8230-b3d762af27ef.png" width="38" height="36" />](https://www.zhihu.com/people/sen-lin-91-41)
 
 <a name="教育经历"></a>
 ## 教育经历
