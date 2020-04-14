@@ -7,7 +7,7 @@ gallery.stop()
 
 // The gallery stops and the images are removed from the DOM.
 gallery.clean()
-<br />
+
 [ **方森林** ](#方森林)
 * [ 教育经历 ](#教育经历) 
 * [ 实习经历 ](#实习经历)
