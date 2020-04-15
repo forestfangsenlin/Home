@@ -80,7 +80,7 @@
 
 * **2019.08&nbsp;&nbsp;法国超级杯英语志愿者**
 <br />主要职责：负责法国超级杯外国运动员和观众的英文翻译和后勤服务。
-<br /><br /><img src="https://user-images.githubusercontent.com/37896842/79305085-449ed980-7f25-11ea-8f73-da61664d4bb5.jpeg" width="240" height="280" />&nbsp;<img src="https://user-images.githubusercontent.com/37896842/79305089-45d00680-7f25-11ea-9cf3-8fbfc4411b18.jpeg" width="440" height="280" />
+<br /><br /><img src="https://user-images.githubusercontent.com/37896842/79305085-449ed980-7f25-11ea-8f73-da61664d4bb5.jpeg" width="260" height="280" />&nbsp;<img src="https://user-images.githubusercontent.com/37896842/79305089-45d00680-7f25-11ea-9cf3-8fbfc4411b18.jpeg" width="555" height="320" />
 <br />
 
 <a name="技能及其他"></a>
