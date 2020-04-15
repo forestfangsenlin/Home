@@ -98,3 +98,6 @@
 
 * **Coursera课程**
 <br />“Neural Networks and Deep Learning”,&nbsp;&nbsp;“Synapses, Neurons and Brains”,&nbsp;&nbsp;“Big Data Emerging Technologies”,&nbsp;&nbsp;“Data Visualization with Advanced Excel”
+
+* **Kaggle及其他大赛**
+<br />“Titanic: Machine Learning from Disaster”,&nbsp;&nbsp;“Tensorflow Speech Recognation Challenge”,&nbsp;&nbsp;“What's Cooking?”,**&nbsp;&nbsp;“ModelNet40”&nbsp;&nbsp;“ShapNet”&nbsp;&nbsp;"ScanNet"**
