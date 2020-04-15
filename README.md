@@ -69,11 +69,11 @@
 <br /><br /><img src="https://user-images.githubusercontent.com/37896842/79305081-42d51600-7f25-11ea-9640-15c9c7bd3876.jpeg" width="555" height="320" />
 <br />
 
-* **2018.05&nbsp;&nbsp;深圳梧桐山Salomon越野跑活动策划**
+* **2018.05&nbsp;&nbsp;深圳梧桐山Salomon越野跑**
 <br />主要职责：作为梧桐山Salomon越野跑活动的主要活动组织者之一，策划并参与场地布置，组织500人的越野跑活动。
 <br />
 
-* **2019.05&nbsp;&nbsp;2019年第七届中国大数据产业峰会组织者**
+* **2019.05&nbsp;&nbsp;2019年第七届中国大数据产业峰会**
 <br />主要职责：组织深圳大数据产业峰会，负责会场布置和专家指引，组织海内外技术人才与企业创始人600人的大数据盛会。
 <br /><br /><img src="https://user-images.githubusercontent.com/37896842/79305083-44064300-7f25-11ea-986c-4357bc3958d5.jpeg" width="555" height="320" />
 <br />
