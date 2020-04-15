@@ -59,22 +59,31 @@
 * **2019.06-2020.04&nbsp;&nbsp;基于Spiking Nerual Networks的机械臂柔顺控制**
 <br />项目职责：利用Brain/Python搭建机械臂柔顺控制系统，作为“用于机器人智能抓取的多参量三维触觉传感器研究”的国家自然科学基金青年科学基金项目中的主要技术人员之一。
 <br /><br /><img src="https://user-images.githubusercontent.com/37896842/79283011-30d58200-7ee9-11ea-8a0a-8092c5186e57.jpg" width="555" height="280" />
-<br /><br /><img  src="https://user-images.githubusercontent.com/37896842/79283013-33d07280-7ee9-11ea-9f34-8872712132e1.png" width="555" height="280" />
+<br /><img  src="https://user-images.githubusercontent.com/37896842/79283013-33d07280-7ee9-11ea-9f34-8872712132e1.png" width="555" height="280" />
 <br />
 
 <a name="社会活动"></a>
 ## 社会活动
 * **2016.12&nbsp;&nbsp;深圳博物馆图书馆文化义工**
 <br />主要职责：负责深圳博物馆图书馆馆内秩序和博物馆历史讲解员。
+<br /><br /><img src="https://user-images.githubusercontent.com/37896842/79305081-42d51600-7f25-11ea-9640-15c9c7bd3876.jpeg" width="555" height="280" />
+<br />
 
 * **2018.05&nbsp;&nbsp;深圳梧桐山Salomon越野跑活动策划**
 <br />主要职责：作为梧桐山Salomon越野跑活动的主要活动组织者之一，策划并参与场地布置，组织500人的越野跑活动。
+<br />
 
 * **2019.05&nbsp;&nbsp;2019年第七届中国大数据产业峰会组织者**
 <br />主要职责：组织深圳大数据产业峰会，负责会场布置和专家指引，组织海内外技术人才与企业创始人600人的大数据盛会。
+<br /><br /><img src="https://user-images.githubusercontent.com/37896842/79305083-44064300-7f25-11ea-986c-4357bc3958d5.jpeg" width="555" height="280" />
+<br />
 
 * **2019.08&nbsp;&nbsp;法国超级杯英语志愿者**
 <br />主要职责：负责法国超级杯外国运动员和观众的英文翻译和后勤服务。
+<br /><br /><img src="https://user-images.githubusercontent.com/37896842/79305085-449ed980-7f25-11ea-8f73-da61664d4bb5.jpeg" width="555" height="280" />
+<br />
+<img src="https://user-images.githubusercontent.com/37896842/79305089-45d00680-7f25-11ea-9cf3-8fbfc4411b18.jpeg" width="555" height="280" />
+<br />
 
 <a name="技能及其他"></a>
 ## 技能及其他
