@@ -35,8 +35,9 @@
 
 <a name="实习经历"></a>
 ## 实习经历
-* **2019.09-2019.12&nbsp;&nbsp;广东省&nbsp;&nbsp;深圳市&nbsp;中国科学院深圳先进院&nbsp;医学成像组助理研究员&nbsp;导师：胡战利**
-<br />负责根据有关脑肿瘤和心室分割的论文，实现基于Capsule Networks的图像分割神经网络的搭建。协助导师调研并撰写有关脑肿瘤和心室分割的英文论文。
+* **2019.09-2020.4&nbsp;&nbsp;广东省&nbsp;&nbsp;深圳市&nbsp;舒糖&nbsp;数据分析实习生**
+<br />负责根据香港理工大学教授的安排进行人体信号数据采集实验，组织并完成了100多人的无创和有创血糖信号采集。
+对收集到的信号在Python上进行预处理，并利用Probabilistic Neural Network和SVM以及1D CNN对血糖浓度进行训练预测，较传统算法PLS Regression，在血糖的NIR信号上的识别准确率都有不同程度的提升，目前已投在Deep Learning for Biometrics期刊。
 <br />
 
 <a name="项目经历"></a>
